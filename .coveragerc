@@ -3,5 +3,5 @@
 omit =
     *migrations*,
     *tests*,
-    pystore*
+    config*
     conftest.py
