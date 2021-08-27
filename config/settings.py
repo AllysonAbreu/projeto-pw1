@@ -40,6 +40,9 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # my apps
     "users.apps.UsersConfig",
+    "pages.apps.PagesConfig",
+    "products.apps.ProductsConfig",
+
 ]
 
 MIDDLEWARE = [
@@ -131,3 +134,7 @@ STATIC_ROOT = BASE_DIR / "staticfiles"
 
 # User Model
 AUTH_USER_MODEL = "users.User"
+
+# Media
+MEDIA_URL = "/media/"
+MEDIA_ROOT = BASE_DIR / "media"
