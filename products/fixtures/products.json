@@ -43,7 +43,7 @@
             "category": 2,
             "name": "Smartphone Samsung Galaxy m31",
             "slug": "smartphone-samsung-galaxy-m31",
-            "image": "products/2021/08/31/Smartphone_samsung_galaxy_m31.jpg",
+            "image": "Smartphone_samsung_galaxy_m31.jpg",
             "description": "128GB 4G Wi-Fi Tela 6.4'' Dual Chip 6GB RAM Câmera Quádrupla + Selfie 32MP - Preto",
             "price": "1579.00",
             "is_available": true
@@ -58,7 +58,7 @@
             "category": 2,
             "name": "Smartphone Samsung Galaxy a32",
             "slug": "smartphone-samsung-galaxy-a32",
-            "image": "products/2021/08/31/Smartphone_samsung_galaxy_a32.jpg",
+            "image": "Smartphone_samsung_galaxy_a32.jpg",
             "description": "128GB 4G Wi-Fi Tela 6.4'' Dual Chip 4GB RAM Câmera Quádrupla + Selfie 20MP - Violeta",
             "price": "1498.99",
             "is_available": true
@@ -73,7 +73,7 @@
             "category": 2,
             "name": "Smartphone Samsung Galaxy a72",
             "slug": "smartphone-samsung-galaxy-a72",
-            "image": "products/2021/08/31/Smartphone_samsung_galaxy_a72.jpg",
+            "image": "Smartphone_samsung_galaxy_a72.jpg",
             "description": "128GB 4G Wi-Fi Tela 6.7'' Dual Chip 6GB RAM Câmera Quádrupla + Selfie 32MP - Preto",
             "price": "2099.00",
             "is_available": true
@@ -88,7 +88,7 @@
             "category": 2,
             "name": "Smartphone Samsung Galaxy m12",
             "slug": "Smartphone-samsung-galaxy-m12",
-            "image": "products/2021/08/31/Smartphone_samsung_galaxy_m12_azul.jpg",
+            "image": "Smartphone_samsung_galaxy_m12_azul.jpg",
             "description": "64GB 4G Wi-Fi Tela 6.5'' Dual Chip 4GB RAM Câmera Quádrupla + Selfie 8MP - Azul",
             "price": "998.90",
             "is_available": true
@@ -103,7 +103,7 @@
             "category": 3,
             "name": "iPhone 11 Apple",
             "slug": "iPhone-11",
-            "image": "products/2021/08/31/iPhone_11.jpg",
+            "image": "iPhone_11.jpg",
             "description": "(64GB) Branco Tela 6,1' 4G Câmera 12MP iOS",
             "price": "4599.00",
             "is_available": true
@@ -118,7 +118,7 @@
             "category": 3,
             "name": "iPhone XR Apple",
             "slug": "iPhone-XR",
-            "image": "products/2020/11/29/iPhone_XR.jpg",
+            "image": "iPhone_XR.jpg",
             "description": "(64GB) Branco Tela 6,1' 4G Câmera Traseira 12MP iOS",
             "price": "3399.00",
             "is_available": true
@@ -133,7 +133,7 @@
             "category": 3,
             "name": "iPhone12 Pro Apple",
             "slug": "iPhone-12-pro",
-            "image": "products/2021/31/08/iPhone_12_pro.jpg",
+            "image": "iPhone_12_pro.jpg",
             "description": "(128GB) Grafite tela 6,1' Câmera tripla 12MP iOS",
             "price": "7595.10",
             "is_available": true
@@ -148,7 +148,7 @@
             "category": 3,
             "name": "iPhone12 Pro Max Apple",
             "slug": "iPhone-12-pro-max",
-            "image": "products/2021/08/31/iPhone_12_pro_max.jpg",
+            "image": "iPhone_12_pro_max.jpg",
             "description": "(128GB) Dourado tela 6,7' Câmera tripla 12MP iOS",
             "price": "8369.07",
             "is_available": true
@@ -163,7 +163,7 @@
             "category": 3,
             "name": "iPhone SE Apple",
             "slug": "iPhone-SE",
-            "image": "products/2021/08/31/iPhone_SE.jpg",
+            "image": "iPhone_SE.jpg",
             "description": "(64GB) Preto Tela 4,7' Câmera 12MP iOS",
             "price": "2899.00",
             "is_available": true

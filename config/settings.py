@@ -42,6 +42,9 @@ INSTALLED_APPS = [
     "users.apps.UsersConfig",
     "pages.apps.PagesConfig",
     "products.apps.ProductsConfig",
+    "cart.apps.CartConfig",
+    # other apps
+    "widget_tweaks",
 
 ]
 
@@ -138,3 +141,8 @@ AUTH_USER_MODEL = "users.User"
 # Media
 MEDIA_URL = "/media/"
 MEDIA_ROOT = BASE_DIR / "media"
+
+
+# Cart
+CART_SESSION_ID = "cart"
+CART_ITEM_MAX_QUANTITY = 20
